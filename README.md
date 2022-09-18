@@ -3,4 +3,7 @@ I am a fresher in coding .My current project is a virtual voice assistant, it's 
 Right now it's very basic and can only perform simple tasks but my plan is to add more functions and make it versatile for different tasks.
 My future plans are to add a ui to the code making it appealing to watch.
 
+I also plan to create some websites with javascript,html, css.
+
+
 
